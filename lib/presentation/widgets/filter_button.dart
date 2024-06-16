@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:internshala_search/presentation/screens/filter_screen.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 
 class FilterButton extends StatelessWidget {
